@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700&subset=latin,latin-ext); */
 
 html {
     margin: 0;
@@ -64,7 +64,7 @@ body.defaultSiteFour .logohome {
 a.hostedinfo:hover {
 	text-decoration:none;
 }
-body.defaultSiteThree .container ul li.mail {
+/* body.defaultSiteThree .container ul li.mail {
     background-image: url(ico-mail-black.png); 
 }
 body.defaultSiteThree .container ul li.panel {
@@ -81,7 +81,7 @@ body.defaultSiteFour .container ul li.panel {
 }
 body.defaultSiteFour .container ul li.forum {
     background-image: url(ico-pomoc-black.png); 
-}
+} */
 a { 
     color: #fff;
     text-decoration: none;
@@ -147,7 +147,7 @@ h1 {
     -o-background-size: 45px 45px;
     background-size: 45px 45px;
 }
-.container ul li.forum {
+/* .container ul li.forum {
     background-image: url(ico-pomoc.png); 
 	background-position:center 0px;
 	background-repeat:no-repeat;
@@ -182,12 +182,12 @@ h1 {
 	width: 70px; 
 	height: 20px;
 	display:block;
-}
+} */
 
 
 /* wordpress hosting part */
 
-.wpLogo {
+/* .wpLogo {
 	width:64px;
 	height:64px;
 	background: url(logo-wp.png) center center no-repeat;
@@ -201,12 +201,12 @@ h1 {
 
 .wpHeader {
 	font-size:35px;
-}
+} */
 
 
 /* wordpress hosting part - end */
 
-@media (max-width: 700px) {
+/* @media (max-width: 700px) {
 	h1 {
 		font-size:2em;
 		line-height:1em;
