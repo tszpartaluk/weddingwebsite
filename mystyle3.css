@@ -7,9 +7,6 @@
 .footer-container {
     flex-grow: 1;
     position: relative;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
     padding: 16px;
 }
 
